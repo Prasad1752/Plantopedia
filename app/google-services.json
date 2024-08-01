@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114462103908",
+    "project_id": "plantopedia-38837",
+    "storage_bucket": "plantopedia-38837.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114462103908:android:0b847f0421d3372de94271",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.mad.D3445103"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgK1LTzsc6LvHhb8mJsLEX5witHMzOGOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
